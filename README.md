@@ -6,8 +6,9 @@ To add these themes to your RStudio, follow the steps outlined below.
 
 Required packages:
 
-> rstudioapi: install.packages("rstudioapi")
-
+rstudioapi: 
+> install.packages("rstudioapi")
+> 
 > library(rstudioapi)
 
 Add Eury_pink to RStudio:
