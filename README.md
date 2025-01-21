@@ -10,5 +10,6 @@ rstudioapi: install.packages("rstudioapi")
 library(rstudioapi)
 
 Add Eury_pink to RStudio:
-Eury_pink <- "https://raw.githubusercontent.com/emhogg/barbie_r_studio_themes/main/Barbie_Light.rstheme"
+Eury_pink <- "https://raw.githubusercontent.com/EuridiceJuarez/Rstudio_theme/main/Eury_pink.rstheme"
+
 rstudioapi::addTheme(Eury_pink, apply = TRUE)
