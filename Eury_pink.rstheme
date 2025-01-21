@@ -70,7 +70,7 @@
 
 .ace_keyword.ace_operator {
   font-weight: bold;
-  color: #00B5FC;
+  color: #1d9fb3;
 
 }
 
@@ -97,7 +97,7 @@
 }
 
 .ace_support.ace_function {
-  color: #FF00F2;
+  color: #f7dfed;
 
 }
 
@@ -112,20 +112,20 @@
 }
 
 .ace_storage {
-  color: #82C6E8;
+  color: #e882a1;
 
 }
 
 .ace_invalid.ace_illegal {
-  color: #FF0009;
-  background-color: #FFB5AD;
+  color: #ff006f;
+  background-color: #ffadc8;
 
 }
 
 .ace_string {
   font-style: italic;
   font-weight: bold;
-  color: rgba(40, 217, 0, 0.82);
+  color: #a80fbf;
   background-color: rgba(82, 77, 0, 0.00);
 
 }
@@ -165,7 +165,7 @@
 }
 
 .ace_entity.ace_name.ace_tag {
-  color: #FF1500;
+  color: #ff006f;
 
 }
 
